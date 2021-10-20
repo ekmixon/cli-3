@@ -18,22 +18,22 @@ require (
 	github.com/mattn/go-runewidth v0.0.8 // indirect
 	github.com/mitchellh/go-ps v0.0.0-20190716172923-621e5597135b
 	github.com/nightlyone/lockfile v0.0.0-20180618180623-0ad87eef1443
-	github.com/olekukonko/tablewriter v0.0.2
+	github.com/olekukonko/tablewriter v0.0.4
 	github.com/phayes/freeport v0.0.0-20180830031419-95f893ade6f2
 	github.com/pkg/browser v0.0.0-20180916011732-0a3d74bf9ce4
 	github.com/shirou/gopsutil v3.21.4+incompatible
-	github.com/spf13/cobra v1.1.1
+	github.com/spf13/cobra v1.1.3
 	github.com/spf13/viper v1.7.0
 	github.com/stretchr/testify v1.7.0
 	github.com/tklauser/go-sysconf v0.3.6 // indirect
 	golang.org/x/sys v0.0.0-20210319071255-635bc2c9138d
-	gopkg.in/yaml.v2 v2.3.0
-	helm.sh/helm/v3 v3.5.3
-	k8s.io/api v0.20.2
-	k8s.io/apiextensions-apiserver v0.20.2
-	k8s.io/apimachinery v0.20.2
-	k8s.io/cli-runtime v0.20.2
-	k8s.io/client-go v0.20.2
+	gopkg.in/yaml.v2 v2.4.0
+	helm.sh/helm/v3 v3.6.1
+	k8s.io/api v0.21.0
+	k8s.io/apiextensions-apiserver v0.21.0
+	k8s.io/apimachinery v0.21.0
+	k8s.io/cli-runtime v0.21.0
+	k8s.io/client-go v0.21.0
 	k8s.io/helm v2.16.10+incompatible
 )
 
